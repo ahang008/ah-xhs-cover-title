@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Editor
+*.swp
+*.swo
+*~
+
+# Obsidian 本地配置（如果有人在本地做了定制化）
+.obsidian/
+
+# 临时文件
+*.tmp
+*.log
